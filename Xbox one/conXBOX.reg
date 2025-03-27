@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Xbox]
+@="XboxOS"
+"sihtos"=dword:00000009
+"XboxStationsDisabled"="0"
+"LastUsedUsername"="UserX"
+"EnableFirstLogonAnimation"=dword:00000107
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Xbox\Settings]
+@="XboxSettings"
+"Xbox"="Microsoft XBOX One"
+"Xshell"="gen.vbs"
+
+
